@@ -67661,10 +67661,10 @@ J(a){var s=null
 return new A.dI(B.kM,A.is(A.a([A.cN(this.c,s,s,A.eh(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),A.cN(this.d,s,s,s,s)],t.p),B.a3,B.q4,B.av),s)}}
 A.Cs.prototype={
 J(a){var s=null
-return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Coding",s,s,A.a7(a).p3.x,s),s),new A.m0(0.8,"Dart",s),new A.m0(0.7,"Python",s),new A.m0(0.58,"JavaScript",s),new A.m0(0.5,"HTML",s)],t.p),B.b0,B.a1)}}
+return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Coding",s,s,A.a7(a).p3.x,s),s),new A.m0(0.8,"Dart",s),new A.m0(0.7,"Python",s),new A.m0(0.5,"SQL",s),new A.m0(0.3,"HTML",s)],t.p),B.b0,B.a1)}}
 A.EK.prototype={
 J(a){var s=null
-return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Conhecimentos",s,s,A.a7(a).p3.x,s),s),new A.mQ("Flutter, Dart, Python",s),new A.mQ("GIT, GitHub",s),new A.mQ("Frontend: Html, Js",s),new A.mQ("Word, PowerPoint",s)],t.p),B.b0,B.a1)}}
+return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Conhecimentos",s,s,A.a7(a).p3.x,s),s),new A.mQ("Flutter, Dart, Python",s),new A.mQ("GIT, GitHub",s),new A.mQ("API: Flask, Rest",s),new A.mQ("Frontend: Html, Css",s)],t.p),B.b0,B.a1)}}
 A.mQ.prototype={
 J(a){var s=null
 return new A.dI(B.kM,A.is(A.a([A.a4d("assets/icons/check.svg"),A.dl(s,s,10),A.cN(this.c,s,s,s,s)],t.p),B.a3,B.a1,B.av),s)}}
@@ -67688,7 +67688,7 @@ $0(){A.Ro()},
 $S:0}
 A.I9.prototype={
 J(a){var s=null,r=t.p
-return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Skills",s,s,A.a7(a).p3.x,s),s),A.is(A.a([A.mo(new A.ot(0.8,"Flutter",s),1),A.dl(s,s,20),A.mo(new A.ot(0.72,"Frontend Web",s),1),A.dl(s,s,20),A.mo(new A.ot(0.6,"Python",s),1)],r),B.a3,B.a1,B.av)],r),B.b0,B.a1)}}
+return A.fn(A.a([A.UB(),new A.dI(B.fY,A.cN("Skills",s,s,A.a7(a).p3.x,s),s),A.is(A.a([A.mo(new A.ot(0.8,"Flutter",s),1),A.dl(s,s,20),A.mo(new A.ot(0.7,"Python",s),1),A.dl(s,s,20),A.mo(new A.ot(0.5,"SQL",s),1)],r),B.a3,B.a1,B.av)],r),B.b0,B.a1)}}
 A.F2.prototype={
 J(a){var s,r,q=null,p=t.w
 if(A.bD(a,q,p).w.a.a>=1024)s=q
