@@ -18,3 +18,7 @@ Flutter: Desenvolvimento multiplataforma com uma única base de código.
 Dart: Linguagem de programação utilizada pelo Flutter.
 
 HTML/CSS: Implementação do design responsivo para a web.
+
+<img>![portifolio](https://github.com/rafaeltutu/Meu-Portifolio/assets/62215859/1458e498-d3fa-4b8c-8440-8c3baad03a97)<img>
+
+
